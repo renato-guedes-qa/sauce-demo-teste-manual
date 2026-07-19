@@ -22,7 +22,7 @@ Documentação de testes funcionais manuais para o [SauceDemo](https://www.sauce
 ### Checkout
 - É necessário ao menos um produto no carrinho para iniciar o checkout.
 - A etapa "Your Information" exige nome, sobrenome e CEP — todos obrigatórios.
-- Campos obrigatórios ausentes devem impedir o avanço, com mensagem de erro.
+- Campos obrigatórios em branco devem impedir o avanço, com mensagem de erro.
 - O resumo do pedido (Overview) deve refletir corretamente os itens e valores selecionados.
 - O usuário pode cancelar o checkout a qualquer etapa e retornar ao carrinho/produtos.
 - A finalização exibe mensagem de confirmação do pedido.
