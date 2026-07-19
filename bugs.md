@@ -16,12 +16,7 @@ Campos seguem a estrutura de relatório de incidente orientada pela ISO/IEC/IEEE
 - **Resultado observado:** a aplicação retorna à página do carrinho, sem avançar
 - **Severidade:** Alta (bloqueia o fluxo principal para este usuário)
 - **Prioridade:** Média (usuário de teste intencionalmente instável, não representa a base de usuários reais)
-- **Evidência:**
-
-<video width="100%" controls>
-  <source src="./evidencias/INC-001-video.mp4" type="video/mp4">
-  Seu navegador não suporta vídeo HTML5.
-</video>
+- **Evidência:** [📹 Assistir vídeo](https://raw.githubusercontent.com/renato-guedes-qa/sauce-demo-teste-manual/main/evidencias/INC-001-video.mp4)
 
 ---
 
@@ -35,12 +30,7 @@ Campos seguem a estrutura de relatório de incidente orientada pela ISO/IEC/IEEE
 - **Resultado observado:** o comando fica inoperante em determinados itens
 - **Severidade:** Média
 - **Prioridade:** Baixa (usuário de teste intencionalmente instável)
-- **Evidência:**
-
-<video width="100%" controls>
-  <source src="./evidencias/INC-002-video.mp4" type="video/mp4">
-  Seu navegador não suporta vídeo HTML5.
-</video>
+- **Evidência:** [📹 Assistir vídeo](https://raw.githubusercontent.com/renato-guedes-qa/sauce-demo-teste-manual/main/evidencias/INC-002-video.mp4)
 
 ---
 
@@ -54,12 +44,7 @@ Campos seguem a estrutura de relatório de incidente orientada pela ISO/IEC/IEEE
 - **Resultado observado:** comando não funciona na vitrine; remoção só é possível dentro da página do carrinho
 - **Severidade:** Baixa (existe caminho alternativo funcional)
 - **Prioridade:** Baixa
-- **Evidência:**
-
-<video width="100%" controls>
-  <source src="./evidencias/INC-003-video.mp4" type="video/mp4">
-  Seu navegador não suporta vídeo HTML5.
-</video>
+- **Evidência:** [📹 Assistir vídeo](https://raw.githubusercontent.com/renato-guedes-qa/sauce-demo-teste-manual/main/evidencias/INC-003-video.mp4)
 
 ---
 
