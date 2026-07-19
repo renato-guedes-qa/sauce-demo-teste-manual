@@ -16,7 +16,12 @@ Campos seguem a estrutura de relatório de incidente orientada pela ISO/IEC/IEEE
 - **Resultado observado:** a aplicação retorna à página do carrinho, sem avançar
 - **Severidade:** Alta (bloqueia o fluxo principal para este usuário)
 - **Prioridade:** Média (usuário de teste intencionalmente instável, não representa a base de usuários reais)
-- **Evidência:** [INC-001-print.png](./evidencias/INC-001-print.png) · [INC-001-video.mp4](./evidencias/INC-001-video.mp4)
+- **Evidência:**
+
+<video width="100%" controls>
+  <source src="./evidencias/INC-001-video.mp4" type="video/mp4">
+  Seu navegador não suporta vídeo HTML5.
+</video>
 
 ---
 
@@ -30,7 +35,12 @@ Campos seguem a estrutura de relatório de incidente orientada pela ISO/IEC/IEEE
 - **Resultado observado:** o comando fica inoperante em determinados itens
 - **Severidade:** Média
 - **Prioridade:** Baixa (usuário de teste intencionalmente instável)
-- **Evidência:** [INC-002-print.png](./evidencias/INC-002-print.png) · [INC-002-video.mp4](./evidencias/INC-002-video.mp4)
+- **Evidência:**
+
+<video width="100%" controls>
+  <source src="./evidencias/INC-002-video.mp4" type="video/mp4">
+  Seu navegador não suporta vídeo HTML5.
+</video>
 
 ---
 
@@ -44,7 +54,12 @@ Campos seguem a estrutura de relatório de incidente orientada pela ISO/IEC/IEEE
 - **Resultado observado:** comando não funciona na vitrine; remoção só é possível dentro da página do carrinho
 - **Severidade:** Baixa (existe caminho alternativo funcional)
 - **Prioridade:** Baixa
-- **Evidência:** [INC-003-print.png](./evidencias/INC-003-print.png) · [INC-003-video.mp4](./evidencias/INC-003-video.mp4)
+- **Evidência:**
+
+<video width="100%" controls>
+  <source src="./evidencias/INC-003-video.mp4" type="video/mp4">
+  Seu navegador não suporta vídeo HTML5.
+</video>
 
 ---
 
@@ -58,4 +73,6 @@ Campos seguem a estrutura de relatório de incidente orientada pela ISO/IEC/IEEE
 - **Resultado observado:** checkout concluído normalmente — Order Receipt exibe 0 itens e total $0.00
 - **Severidade:** Alta (viola regra de negócio central com o usuário-base da aplicação, não um usuário de teste especial)
 - **Prioridade:** Alta
-- **Evidência:** [INC-004-order-receipt.pdf](./evidencias/INC-004-order-receipt.pdf)
+- **Evidência:**
+
+![INC-004-order-receipt](./evidencias/INC-004-order-receipt.png)
